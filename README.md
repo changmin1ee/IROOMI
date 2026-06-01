@@ -1,2 +1,2 @@
-# IROOMI_1
+# IROOMI
 chatbot project using chatGPT
